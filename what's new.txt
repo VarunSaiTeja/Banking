@@ -1,0 +1,27 @@
+Added:
+Admin can create new database
+User can view his details
+User can edit his details
+Defualt option for all choices
+
+Security:
+Pin Masking
+guest can't make deposit with negative number
+user cant't deposit with negative number
+user can't with draw negative number
+user can't transfer with negative number
+
+Graphics:
+Added after login successfully
+Added after fetching all acount holder details
+White backgroud, Black font for user
+Black backgroud, Green font for admin
+
+
+Fixed:
+At Fund transfereing account confirmation page ,showing user account number  instead of showing receiver accout no
+After fund transfeering at user menu showing receiver account & name,instead of showing user account number
+Avoid Creating account with same mob number
+User can't transfer money to his account
+Transaction is proceeding after guest returning to main menu from account not exist menu while depositing money
+Program will not end by entering number which is not in choice
